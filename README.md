@@ -1,4 +1,5 @@
-# ReduxSimple weather app
+# Redux Weather App
+![www obstolumtriggs com weatherapp](https://cloud.githubusercontent.com/assets/16858861/14553948/b5c4318a-02b7-11e6-840a-06658ff11aed.png)
 
 ###Getting Started###
 
